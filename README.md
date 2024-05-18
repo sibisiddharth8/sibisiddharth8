@@ -4,8 +4,12 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 ## About Me
 
- 🌐Professional Skills
-  💼 Throughout my journey, I've immersed myself in various domains, continually refining and expanding my skill set in:
-  - **Front-End Development:** With a solid grounding in HTML, CSS, JavaScript, and basic React, I create engaging and user-friendly web interfaces. I've built responsive websites, crafted dynamic user experiences, and continuously strive to enhance the visual and functional aspects of my projects.
-  - **AI/ML Development:** My expertise in AI and Generative AI, coupled with hands-on experience in developing machine learning and deep learning projects, empowers me to create intelligent systems. I’ve designed complex models, implemented cutting-edge algorithms, and continuously explore innovative approaches to advance the field of Artificial Intelligence.
-  - **Python Programming:** With a strong command of Python, I’ve developed a variety of applications ranging from chatbots to complex image based applications. My proficiency in Python allows me to write clean, efficient code and leverage powerful libraries to solve challenging problems and streamline workflows.
+### 🛠️ Front-End & Python Developer @ Team SquadofCreators
+
+💼 Wanna Know My Professional Skills? Let's Dive into it.
+
+  - **Dazzling Designs:** Armed with HTML, CSS, JavaScript, and React fundamentals, I orchestrate visually captivating and responsive front-end designs that enchant and engage users.
+    
+  - **Majestic Intelligence:** Transforming data into intelligence, I specialize in AI and Generative AI, crafting complex models that are captivate and inspiring.
+    
+  - **Python Prodigy:** Harnessing the power of Python, from witty chatbots to intricate image-based marvels.
