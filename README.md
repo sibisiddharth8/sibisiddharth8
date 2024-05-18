@@ -22,7 +22,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 ### SquadofCreators - Front-End & Python Developer (Sept 2021 - Present)
 - Contributed in various AI/ML and Web based Projects.
 
-## <img src="https://github.com/sibisiddharth8/sibisiddharth8/assets/146215243/d31db45f-e4b9-4219-962b-8e754c74bc2f" alt="C" width="25"> Collaboration
+## 🤝 Collaboration
 
 💡Seeking partners for magical projects in AI, ML, DL, and web development? Let's craft something extraordinary together and unleash innovation's power in our digital quests!
 
