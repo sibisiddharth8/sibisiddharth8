@@ -8,7 +8,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 💼 Wanna Know My Professional Skills? Let's Dive into it.
 
-   ###⚡Dazzling Designs:### Armed with HTML, CSS, JavaScript, and React fundamentals, I orchestrate visually captivating and responsive front-end designs that enchant and engage users.
+  - **⚡Dazzling Designs:** Armed with HTML, CSS, JavaScript, and React fundamentals, I orchestrate visually captivating and responsive front-end designs that enchant and engage users.
     
   - **🪄Majestic Intelligence:** Transforming data into intelligence, I specialize in AI and Generative AI, crafting complex models that are captivate and inspiring.
     
