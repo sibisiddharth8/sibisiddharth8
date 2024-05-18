@@ -14,7 +14,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
     
   - **🐍Python Prodigy:** Harnessing the power of Python, from witty chatbots to intricate image-based marvels.
 
-## 😯 Do I Contribute Apart from Work ? Yeah!
+## 😯 How Do I Contribute ?
 
 ### RacKathirce - International Service Director & Social Media Management (Jan 2024 - Present)
 - Managing International Service Projects, Linkedin Handle and Designing Posters using canva.
