@@ -13,3 +13,10 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
   - **Majestic Intelligence:** Transforming data into intelligence, I specialize in AI and Generative AI, crafting complex models that are captivate and inspiring.
     
   - **Python Prodigy:** Harnessing the power of Python, from witty chatbots to intricate image-based marvels.
+
+## Do I Contribute Apart from Work? Yeah!
+
+### Rotaract Club of Kathir College of Engineering - International Service Director & Social Media Management (Jan 2024 - Present)
+- Managing International Service Projects, Linkedin Handle and Designing Posters using canva.
+
+    
