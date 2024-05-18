@@ -16,7 +16,8 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 ## Do I Contribute Apart from Work? Yeah!
 
-### Rotaract Club of Kathir College of Engineering - International Service Director & Social Media Management (Jan 2024 - Present)
+### RacKathirce - International Service Director & Social Media Management (Jan 2024 - Present)
 - Managing International Service Projects, Linkedin Handle and Designing Posters using canva.
 
-    
+### SquadofCreators - Front-End & Python Developer (Sept 2021 - Present)
+- Contributed in various AI/ML and Web based Projects.
