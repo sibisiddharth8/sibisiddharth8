@@ -6,7 +6,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 ### 🛠️ Front-End & Python Developer @ Team SquadofCreators
 
-💼 Wanna Know My Professional Skills? Let's Dive into it.
+## 💼 Wanna Know My Professional Skills? Let's Dive into it.
 
   - **⚡Dazzling Designs:** Armed with HTML, CSS, JavaScript, and React fundamentals, I orchestrate visually captivating and responsive front-end designs that enchant and engage users.
     
@@ -14,7 +14,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
     
   - **🐍Python Prodigy:** Harnessing the power of Python, from witty chatbots to intricate image-based marvels.
 
-## Do I Contribute Apart from Work? Yeah!
+## 😯 Do I Contribute Apart from Work? Yeah!
 
 ### RacKathirce - International Service Director & Social Media Management (Jan 2024 - Present)
 - Managing International Service Projects, Linkedin Handle and Designing Posters using canva.
