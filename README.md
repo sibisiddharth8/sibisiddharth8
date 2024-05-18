@@ -1,5 +1,4 @@
-# Hi there! 👋 I'm Sibi Siddharth S
-# Hi! 👋 I'm Sibi Siddharth S 🚀✨
+# Hi there! 👋 I'm Sibi Siddharth S 🚀✨
 
 Dive into my world of code, where creativity and consistency blend seamlessly to craft solutions.
 
