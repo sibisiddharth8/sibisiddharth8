@@ -2,7 +2,7 @@
 
 Dive into my world of code, where creativity and consistency blend seamlessly to craft solutions.
 
-## About Me
+## Who Am I?
 
 ### 🛠️ Front-End & Python Developer @ Team SquadofCreators
 
