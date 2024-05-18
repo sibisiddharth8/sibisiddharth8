@@ -4,7 +4,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 ## 🫣 Who Am I?
 
-### 🛠️ Front-End & Python Developer @ Team SquadofCreators
+🚀 Front-End & Python Developer at Team SquadofCreators, fueled by passion for tech. With strong problem-solving skills and innovation drive, I seek new horizons to conquer through collaboration.
 
 ## 💼 Wanna Know My Professional Skills? Let's Dive into it.
 
