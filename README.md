@@ -16,7 +16,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 ## 😯 How Do I Contribute ?
 
-### RacKathirce - International Service Director & Social Media Management (Jan 2024 - Present)
+### RacKathirce - International Service Director & Social Media Management (Jan 2024 - June 2024)
 - Managing International Service Projects, Linkedin Handle and Designing Posters using canva.
 
 ### SquadofCreators - Front-End & Python Developer (Sept 2021 - Present)
