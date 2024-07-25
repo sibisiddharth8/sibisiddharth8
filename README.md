@@ -8,24 +8,45 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 ## 💼 Wanna Know My Professional Skills ? Let's Dive into it.
 
-  - **⚡Dazzling Designs:** Armed with HTML, CSS, JavaScript, and React fundamentals, I orchestrate visually captivating and responsive front-end designs that enchant and engage users.
+  - **⚡Dazzling Designs:** Armed with HTML, CSS, JavaScript, and React, I orchestrate visually captivating and responsive front-end designs that enchant and engage users.
 
     <table>
       <tr align="center">
         <th>HTML</th>
         <th>CSS</th>
+        <th>Bootstrap</th>
         <th>JS</th>
         <th>ReactJS</th>
+        <th>Figma</th>
+        <th>Canva</th>
       </tr>
       <tr>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="55" height="55"/></td>
       </tr>
     </table>
     
   - **🪄Majestic Intelligence:** Transforming data into intelligence, I specialize in AI and Generative AI, crafting complex models that are captivate and inspiring.
+
+    <table>
+      <tr align="center">
+        <th>AI</th>
+        <th>ML</th>
+        <th>DL</th>
+        <th>LLMs</th>
+      </tr>
+      <tr>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/4630/4630645.png" title="AI" alt="AI" width="55" height="55"/></td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/2980/2980560.png" title="ML" alt="ML" width="55" height="55"/></td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/10817/10817412.png" title="DL" alt="DL" width="55" height="55"/></td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/16806/16806660.png" title="LLMs" alt="LLMs" width="55" height="55"/></td>
+      </tr>
+    </table>
     
   - **🐍Python Prodigy:** Harnessing the power of Python, from witty chatbots to intricate image-based marvels.
 
