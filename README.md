@@ -20,7 +20,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         <th>Figma</th>
         <th>Canva</th>
       </tr>
-      <tr>
+      <tr align="center">
         <td><img style="min-width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/></td>
         <td><img style="min-width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/></td>
         <td><img style="min-width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/></td>
