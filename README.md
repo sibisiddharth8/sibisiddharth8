@@ -96,8 +96,8 @@ Let's spark innovation together! 🧙‍♂️✨
 
 <p align="center">
   <div style="display: flex; justify-content: center;">
-    <img width="500" height="175" src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
-    <img width="325" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibisiddharth8&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
+    <img width="550" height="200" src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
+    <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibisiddharth8&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
   </div>
 </p>
 
