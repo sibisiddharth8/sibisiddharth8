@@ -94,8 +94,9 @@ Let's spark innovation together! 🧙‍♂️✨
 
 ---
 
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=vision-friendly-dark">
+  
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibisiddharth8&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
