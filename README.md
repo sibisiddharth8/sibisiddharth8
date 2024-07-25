@@ -10,10 +10,9 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
   - **⚡Dazzling Designs:** Armed with HTML, CSS, JavaScript, and React fundamentals, I orchestrate visually captivating and responsive front-end designs that enchant and engage users.
 
-  ### Languages:
-| HTML | CSS | JS | ReactJS |
-|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="55" height="55"/>| 
+  | HTML | CSS | JS | ReactJS |
+  |----------|----------|----------|-----|
+  |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="55" height="55"/>| 
     
   - **🪄Majestic Intelligence:** Transforming data into intelligence, I specialize in AI and Generative AI, crafting complex models that are captivate and inspiring.
     
