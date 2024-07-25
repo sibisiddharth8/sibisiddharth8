@@ -13,7 +13,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
     <table style="width: 100%; table-layout: fixed;">
       <tr align="center">
         <th>HTML</th>
-        <th>CSS 3</th>
+        <th>CSS3</th>
         <th>Bootstrap</th>
         <th>JavaScript</th>
         <th>ReactJS</th>
