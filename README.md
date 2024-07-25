@@ -12,13 +12,13 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
     <table style="width: 100%; table-layout: fixed;">
       <tr align="center">
-        <th style="width: 14.28%;">HTML</th>
-        <th style="width: 14.28%;">CSS</th>
-        <th style="width: 14.28%;">Bootstrap</th>
-        <th style="width: 14.28%;">JS</th>
-        <th style="width: 14.28%;">ReactJS</th>
-        <th style="width: 14.28%;">Figma</th>
-        <th style="width: 14.28%;">Canva</th>
+        <th>HTML</th>
+        <th>CSS</th>
+        <th>Bootstrap</th>
+        <th>JS</th>
+        <th>ReactJS</th>
+        <th>Figma</th>
+        <th>Canva</th>
       </tr>
       <tr align="center">
         <td><img style="min-width: 55px; height: auto; width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML"/></td>
