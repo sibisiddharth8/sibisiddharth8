@@ -10,8 +10,8 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
   - **⚡Dazzling Designs:** Armed with HTML, CSS, JavaScript, and React fundamentals, I orchestrate visually captivating and responsive front-end designs that enchant and engage users.
 
-    <table align="center">
-      <tr>
+    <table>
+      <tr align="center">
         <th>HTML</th>
         <th>CSS</th>
         <th>JS</th>
