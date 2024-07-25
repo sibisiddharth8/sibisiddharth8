@@ -21,13 +21,13 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         <th>Canva</th>
       </tr>
       <tr>
-        <td style="min-width: 55px;"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/></td>
-        <td style="min-width: 55px;"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/></td>
-        <td style="min-width: 55px;"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/></td>
-        <td style="min-width: 55px;"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></td>
-        <td style="min-width: 55px;"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="55" height="55"/></td>
-        <td style="min-width: 55px;"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/></td>
-        <td style="min-width: 55px;"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="55" height="55"/></td>
+        <td><img style="min-width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/></td>
+        <td><img style="min-width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/></td>
+        <td><img style="min-width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/></td>
+        <td><img style="min-width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></td>
+        <td><img style="min-width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="55" height="55"/></td>
+        <td><img style="min-width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/></td>
+        <td><img style="min-width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="55" height="55"/></td>
       </tr>
     </table>
     
