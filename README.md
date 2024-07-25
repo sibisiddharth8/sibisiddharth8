@@ -10,24 +10,24 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
   - **⚡Dazzling Designs:** Armed with HTML, CSS, JavaScript, and React, I orchestrate visually captivating and responsive front-end designs that enchant and engage users.
 
-    <table align="center" style="width: 100%; table-layout: fixed;">
+    <table style="width: 100%; table-layout: fixed;">
       <tr align="center">
-        <th>HTML</th>
-        <th>CSS</th>
-        <th>Bootstrap</th>
-        <th>JS</th>
-        <th>ReactJS</th>
-        <th>Figma</th>
-        <th>Canva</th>
+        <th style="width: 14.28%;">HTML</th>
+        <th style="width: 14.28%;">CSS</th>
+        <th style="width: 14.28%;">Bootstrap</th>
+        <th style="width: 14.28%;">JS</th>
+        <th style="width: 14.28%;">ReactJS</th>
+        <th style="width: 14.28%;">Figma</th>
+        <th style="width: 14.28%;">Canva</th>
       </tr>
       <tr align="center">
-        <td><img style="width: 55px; height: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML"/></td>
-        <td><img style="width: 55px; height: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS"/></td>
-        <td><img style="width: 55px; height: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap"/></td>
-        <td><img style="width: 55px; height: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"/></td>
-        <td><img style="width: 55px; height: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS"/></td>
-        <td><img style="width: 55px; height: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma"/></td>
-        <td><img style="width: 55px; height: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva"/></td>
+        <td><img style="max-width: 100%; height: auto; width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML"/></td>
+        <td><img style="max-width: 100%; height: auto; width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS"/></td>
+        <td><img style="max-width: 100%; height: auto; width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap"/></td>
+        <td><img style="max-width: 100%; height: auto; width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"/></td>
+        <td><img style="max-width: 100%; height: auto; width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS"/></td>
+        <td><img style="max-width: 100%; height: auto; width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma"/></td>
+        <td><img style="max-width: 100%; height: auto; width: 55px;" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva"/></td>
       </tr>
     </table>
 
