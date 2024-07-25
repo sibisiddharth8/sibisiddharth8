@@ -21,33 +21,34 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         <th>Canva</th>
       </tr>
       <tr align="center">
-        <td><img style="min-width: 55px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" height="55" width="55";/></td>
-        <td><img style="min-width: 55px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" height="55" width="55";/></td>
-        <td><img style="min-width: 55px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" height="55" width="55";/></td>
-        <td><img style="min-width: 55px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="55" width="55";/></td>
-        <td><img style="min-width: 55px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" height="55" width="55";/></td>
-        <td><img style="min-width: 55px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="55" width="55";/></td>
-        <td><img style="min-width: 55px" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" height="55" width="55";/></td>
       </tr>
     </table>
 
     
   - **🪄Majestic Intelligence:** Transforming data into intelligence, I specialize in AI and Generative AI, crafting complex models that are captivate and inspiring.
 
-    <table>
+    <table style="width: 100%; table-layout: fixed;">
       <tr align="center">
         <th>AI</th>
         <th>ML</th>
         <th>DL</th>
         <th>LLMs</th>
       </tr>
-      <tr>
+      <tr align="center">
         <td><img src="https://cdn-icons-png.flaticon.com/512/4630/4630645.png" title="AI" alt="AI" width="55" height="55"/></td>
         <td><img src="https://cdn-icons-png.flaticon.com/512/2980/2980560.png" title="ML" alt="ML" width="55" height="55"/></td>
         <td><img src="https://cdn-icons-png.flaticon.com/512/10817/10817412.png" title="DL" alt="DL" width="55" height="55"/></td>
         <td><img src="https://cdn-icons-png.flaticon.com/512/16806/16806660.png" title="LLMs" alt="LLMs" width="55" height="55"/></td>
       </tr>
     </table>
+
     
   - **🐍Python Prodigy:** Harnessing the power of Python, from witty chatbots to intricate image-based marvels.
 
