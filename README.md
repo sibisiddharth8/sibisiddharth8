@@ -36,3 +36,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 🔮 Let's connect on [LinkedIn](https://www.linkedin.com/in/sibisiddharths/).
 
 Let's spark innovation together! 🧙‍♂️✨
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
