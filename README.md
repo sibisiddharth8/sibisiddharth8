@@ -94,7 +94,7 @@ Let's spark innovation together! 🧙‍♂️✨
 
 ---
 
-<table cellspacing="0" cellpadding="0" border="0">
+<table>
   <tr>
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=github_dark" alt="sibisiddharth8-readme-stats" />
@@ -106,7 +106,6 @@ Let's spark innovation together! 🧙‍♂️✨
     </td>
   </tr>
 </table>
-
 
 ---
 
