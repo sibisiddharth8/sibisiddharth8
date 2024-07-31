@@ -94,12 +94,13 @@ Let's spark innovation together! 🧙‍♂️✨
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=github_dark" alt="sibisiddharth8-readme-stats" style="" />
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=github_dark" alt="sibisiddharth8-readme-stats" />
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sibisiddharth8&theme=github-dark-blue" alt="GitHub Streak" />
   </a>
 </div>
+
 
 
 
