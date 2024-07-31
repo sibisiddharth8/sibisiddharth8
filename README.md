@@ -94,12 +94,16 @@ Let's spark innovation together! 🧙‍♂️✨
 
 ---
 
-<p align="center">
-  <div style="display: flex; justify-content: center;">
-    <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=github_dark" alt="GitHub Stats">
-    <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibisiddharth8&size_weight=0.0005&count_weight=0.3&layout=compact&theme=github_dark" alt="Top Languages">
-  </div>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=github_dark" alt="sibisiddharth8-readme-stats"s GitHub stats/>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sibisiddharth8&theme=github-dark-blue" alt="GitHub Streak" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
