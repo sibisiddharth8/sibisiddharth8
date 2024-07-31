@@ -94,12 +94,12 @@ Let's spark innovation together! 🧙‍♂️✨
 
 ---
 
-<table cellspacing="0" cellpadding="0">
-  <tr cellspacing="0" cellpadding="0">
-    <td>
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=github_dark" alt="sibisiddharth8-readme-stats" />
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=sibisiddharth8&theme=github-dark-blue" alt="GitHub Streak" />
       </a>
