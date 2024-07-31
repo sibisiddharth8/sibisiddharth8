@@ -100,9 +100,7 @@ Let's spark innovation together! 🧙‍♂️✨
       <img src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=github_dark" alt="sibisiddharth8-readme-stats" />
     </td>
     <td style="border: none;">
-      <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=sibisiddharth8&theme=github-dark-blue" alt="GitHub Streak" />
-      </a>
     </td>
   </tr>
 </table>
