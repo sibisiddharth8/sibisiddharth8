@@ -4,7 +4,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 ## 🫣 Who Am I ?
 
-🚀 Front-End & Python Developer at Team SquadofCreators, fueled by passion for tech. With strong problem-solving skills and innovation drive, I seek new horizons to conquer through collaboration.
+🚀 Full-Stack & AI/ML Developer at Team SquadofCreators, fueled by passion for tech. With strong problem-solving skills and innovation drive, I seek new horizons to conquer through collaboration.
 
 ## 💼 Wanna Know My Professional Skills ? Let's Dive into it.
 
@@ -17,17 +17,15 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         <th>Bootstrap</th>
         <th>JavaScript</th>
         <th>ReactJS</th>
-        <th>Figma</th>
         <th>Canva</th>
       </tr>
       <tr align="center">
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" height="55" width="55";/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" height="55" width="55";/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" height="55" width="55";/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="55" width="55";/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" height="55" width="55";/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="55" width="55";/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva Sibi Siddharth S" height="55" width="55";/></td>
       </tr>
     </table>
 
@@ -45,13 +43,13 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         <th>LLMs</th>
       </tr>
       <tr align="center">
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/></td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/16806/16806660.png" title="LLMs" alt="LLMs" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/16806/16806660.png" title="LLMs" alt="LLMs Sibi Siddharth S" width="55" height="55"/></td>
       </tr>
     </table>
 
@@ -64,8 +62,8 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         <th>Flask</th>
       </tr>
       <tr align="center">
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="55" height="55"/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask Sibi Siddharth S" width="55" height="55"/></td>
       </tr>
     </table>
 
@@ -78,7 +76,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 - Managing International Service Projects, Linkedin Handle and Designing Posters using canva.
 
 ### SquadofCreators - Front-End & Python Developer (Sept 2021 - Present)
-- Contributed in various AI/ML and Web based Projects.
+- Contributed in various AI/ML, Web and Python based Projects.
 
 ## 🤝 Collaboration
 
