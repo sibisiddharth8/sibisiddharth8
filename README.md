@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sibi Siddharth S 🚀✨
+# Hi there! 👋 I'm Sibi Siddharth S 🚀✨ ![](https://komarev.com/ghpvc/?username=sibisiddharth8&color=1f6feb&style=flat-square)
 
 Dive into my world of code, where creativity and consistency blend seamlessly to craft solutions.
 
