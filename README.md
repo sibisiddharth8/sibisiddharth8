@@ -26,7 +26,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap Sibi Siddharth S" height="55" width="55";/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript Sibi Siddharth S" height="55" width="55";/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS Sibi Siddharth S" height="55" width="55";/></td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="Firebase" alt="Firebase Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase Sibi Siddharth S" height="55" width="55";/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva Sibi Siddharth S" height="55" width="55";/></td>
       </tr>
     </table>
