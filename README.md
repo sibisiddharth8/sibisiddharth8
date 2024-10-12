@@ -8,7 +8,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 ## 💼 Wanna Know My Professional Skills ? Let's Dive into it.
 
-  - **⚡Dazzling Designs:** Armed with HTML, CSS, JavaScript, and React, I orchestrate visually captivating and responsive front-end designs that enchant and engage users.
+  - **⚡Dazzling Designs:** Armed with HTML, CSS, JavaScript, and React, I orchestrate visually captivating and responsive Full stack designs that enchant and engage users.
 
     <table style="width: 100%; table-layout: fixed;">
       <tr align="center">
@@ -17,6 +17,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         <th>Bootstrap</th>
         <th>JavaScript</th>
         <th>ReactJS</th>
+        <th>Firebase</th>
         <th>Canva</th>
       </tr>
       <tr align="center">
@@ -25,6 +26,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap Sibi Siddharth S" height="55" width="55";/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript Sibi Siddharth S" height="55" width="55";/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original-wordmark.svg" title="Firebase" alt="Firebase Sibi Siddharth S" height="55" width="55";/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva Sibi Siddharth S" height="55" width="55";/></td>
       </tr>
     </table>
@@ -87,6 +89,8 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 📫 Drop me a line at sibisiddharth8@gmail.com.
 
 🔮 Let's connect on [LinkedIn](https://www.linkedin.com/in/sibisiddharths/).
+
+🪄 Do Check [MyMind | Portfolio](https://sibisiddharth8.github.io/portfolio-react/).
 
 Let's spark innovation together! 🧙‍♂️✨
 
