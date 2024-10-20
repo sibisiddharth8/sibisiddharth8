@@ -77,7 +77,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 ### RaCKathirce - International Service Director & Social Media Management (Jan 2024 - June 2024)
 - Managing International Service Projects, Linkedin Handle and Designing Posters using canva.
 
-### SquadofCreators - Front-End & Python Developer (Sept 2021 - Present)
+### SquadofCreators - Full-Stack & AI/ML Developer (Sept 2021 - Present)
 - Contributed in various AI/ML, Web and Python based Projects.
 
 ## 🤝 Collaboration
