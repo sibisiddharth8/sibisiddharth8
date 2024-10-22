@@ -72,13 +72,17 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 ## 😯 How Do I Contribute ?
 
 ### RaC CBE Royals - Club Service Director (June 2024 - Present)
-- Managing Club Service Projects and its documentation.
+- Managing Club Service Projects.
+- Documentation of Club Service Projects and records.
 
 ### RaCKathirce - International Service Director & Social Media Management (Jan 2024 - June 2024)
-- Managing International Service Projects, Linkedin Handle and Designing Posters using canva.
+- Managing International Service Projects.
+- Maintaining timely updates of linkedin handle.
+- Designing Posters using Canva.
+- Documentation of the events, linkedin posts and event posters.
 
 ### SquadofCreators - Full-Stack & AI/ML Developer (Sept 2021 - Present)
-- Contributed in various AI/ML, Web and Python based Projects.
+- Actively engaged in Web, Python, and AI/ML projects.
 
 ## 🤝 Collaboration
 
