@@ -15,6 +15,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         <th>HTML</th>
         <th>CSS3</th>
         <th>Bootstrap</th>
+        <th>Tailwind</th>
         <th>JavaScript</th>
         <th>ReactJS</th>
         <th>Firebase</th>
@@ -24,6 +25,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML Sibi Siddharth S" height="55" width="55";/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS Sibi Siddharth S" height="55" width="55";/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind Sibi Siddharth S" height="55" width="55";/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript Sibi Siddharth S" height="55" width="55";/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS Sibi Siddharth S" height="55" width="55";/></td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase Sibi Siddharth S" height="55" width="55";/></td>
