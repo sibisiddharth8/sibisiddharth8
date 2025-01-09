@@ -33,8 +33,24 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
       </tr>
     </table>
 
+    - **💻Backend Brilliance:** Specializing in backend development with MongoDB, ExpressJS, NodeJS, and Firebase, I create scalable, efficient, and reliable backend systems.
+
+    <table style="width: 100%; table-layout: fixed;">
+      <tr align="center">
+        <th>MongoDB</th>
+        <th>ExpressJS</th>
+        <th>NodeJS</th>
+        <th>Firebase</th>
+      </tr>
+      <tr align="center">
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase Sibi Siddharth S" width="55" height="55"/></td>
+      </tr>
+    </table>
     
-  - **🪄Majestic Intelligence:** Transforming data into intelligence, I specialize in AI and Generative AI, crafting complex models that are captivate and inspiring.
+  - **🪄Majestic Intelligence:** Transforming data into intelligence, I specialize in AI and Generative AI, crafting complex models that are captivating and inspiring.
 
     <table style="width: 100%; table-layout: fixed;">
       <tr align="center">
@@ -108,7 +124,7 @@ Let's spark innovation together! 🧙‍♂️✨
       <img src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=github_dark" alt="sibisiddharth8-readme-stats" />
     </td>
     <td style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=sibisiddharth8&theme=github-dark-blue" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=sibisiddharth8&theme=github-dark-blue" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -122,4 +138,3 @@ Let's spark innovation together! 🧙‍♂️✨
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
