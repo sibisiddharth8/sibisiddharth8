@@ -124,14 +124,10 @@ Let's spark innovation together! 🧙‍♂️✨
       <img src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=github_dark" alt="sibisiddharth8-readme-stats" />
     </td>
     <td style="border: none;">
-        <img src="https://streak-stats.demolab.com/?user=sibisiddharth8&theme=github-dark-blue" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=sibisiddharth8&theme=github-dark-blue" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-
----
-
-![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=sibisiddharth8&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false)
 
 ---
 
