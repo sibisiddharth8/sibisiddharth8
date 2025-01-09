@@ -125,7 +125,6 @@ Let's spark innovation together! 🧙‍♂️✨
     </td>
     <td style="border: none;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=sibisiddharth8&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" />
-
     </td>
   </tr>
 </table>
