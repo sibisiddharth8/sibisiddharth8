@@ -124,7 +124,8 @@ Let's spark innovation together! 🧙‍♂️✨
       <img src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=github_dark" alt="sibisiddharth8-readme-stats" />
     </td>
     <td style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=sibisiddharth8&theme=github-dark-blue" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=sibisiddharth8&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" />
+
     </td>
   </tr>
 </table>
