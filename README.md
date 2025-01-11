@@ -33,7 +33,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
       </tr>
     </table>
 
-    - **💻Backend Brilliance:** Specializing in backend development with MongoDB, ExpressJS, NodeJS, and Firebase, I create scalable, efficient, and reliable backend systems.
+  - **💻Backend Brilliance:** Specializing in backend development with MongoDB, ExpressJS, NodeJS, and Firebase, I create scalable, efficient, and reliable backend systems.
 
     <table style="width: 100%; table-layout: fixed;">
       <tr align="center">
