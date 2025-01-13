@@ -131,6 +131,8 @@ Let's spark innovation together! 🧙‍♂️✨
 
 ---
 
+![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=sibisiddharth8&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false)
+
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
