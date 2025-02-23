@@ -89,9 +89,13 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 
 ## 😯 How Do I Contribute ?
 
+### iZet E-Payments - Software Developer (intern) (Feb 2025 - Present)
+- Building Ecommerce chatbot.
+- Contributing in Web Development Projects.
+
 ### RaC CBE Royals - Club Service Director (June 2024 - Present)
 - Managing Club Service Projects.
-- Documentation of Club Service Projects and records.
+- Documentation of Club Service Projects and Records.
 
 ### RaCKathirce - International Service Director & Social Media Management (Jan 2024 - June 2024)
 - Managing International Service Projects.
@@ -99,7 +103,7 @@ Dive into my world of code, where creativity and consistency blend seamlessly to
 - Designing Posters using Canva.
 - Documentation of the events, linkedin posts and event posters.
 
-### SquadofCreators - Full-Stack & AI/ML Developer (Sept 2021 - Present)
+### SquadofCreators - Full-Stack Developer (Sept 2021 - Present)
 - Actively engaged in Web, Python, and AI/ML projects.
 
 ## 🤝 Collaboration
