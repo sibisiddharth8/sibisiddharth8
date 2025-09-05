@@ -125,19 +125,17 @@
 
 ## 😯 How Do I Contribute ?
 
+### I-BACUS-TECH Solutions - Jr. Full Stack Developer (Aug 2025 - Present)
+- Contributed to development of 6+ full-stack projects.
+- Developed and maintained web applications using React, Node.js, Express.js, MongoDB and SQL.
+
+### I-BACUS-TECH Solutions - Full Stack Developer (intern) (Jul 2025 - Aug 2025)
+- Contributed in 6+ full-stack projects.
+- Collaborated with cross-functional teams to define and design new features.
+
 ### iZet E-Payments - Software Developer (intern) (Feb 2025 - May 2025)
 - Built custom CRM Application.
 - Contributed in Web Development Projects.
-
-### RaC CBE Royals - Club Service Director (June 2024 - June 2025)
-- Managing Club Service Projects.
-- Documentation of Club Service Projects and Records.
-
-### RaCKathirce - International Service Director & Social Media Management (Jan 2024 - June 2024)
-- Managing International Service Projects.
-- Maintaining timely updates of linkedin handle.
-- Designing Posters using Canva.
-- Documentation of the events, linkedin posts and event posters.
 
 ## 🤝 Collaboration
 
