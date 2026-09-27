@@ -29,7 +29,7 @@ Data & Architecture
 
 AI / Cloud / DevOps
 
-<p> <img src="https://skillicons.dev/icons?i=python,tensorflow" /> <img src="https://skillicons.dev/icons?i=gcp,azure" /> <img src="https://skillicons.dev/icons?i=git,github,postman" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=gcp,azure" /> <img src="https://skillicons.dev/icons?i=git,github,postman" /> </p>
 
     
 
