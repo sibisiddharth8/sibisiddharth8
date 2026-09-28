@@ -52,7 +52,7 @@ AI / Cloud / DevOps
 
 🔮 Let's connect on [LinkedIn](https://www.linkedin.com/in/sibisiddharths/).
 
-🪄 Do Check [MyMind | Portfolio](https://www.sibisiddharth.me/).
+🪄 Visit [MyMind | Nyra.ai](https://www.sibisiddharth.me/).
 
 Let's spark innovation together! 🧙‍♂️✨
 
